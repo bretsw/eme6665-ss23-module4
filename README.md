@@ -1,2 +1,5 @@
-# eme6665-ss23-module4
-Slide deck for EME6665, Module 4: Systematic Not Automatic (Spring 2023)
+# EME6665 Module 4: Systematic Not Automatic
+
+Slide deck for **EME6665, Module 4: Systematic Not Automatic** (Spring 2023)
+
+![](img/4-system.jpg)
